@@ -67,7 +67,7 @@ I enjoy building projects that combine **logic, automation, and real-world inter
 
 # 📈 What I'm Working On
 
-* 🚀 Improving **DSA skills (C++)**
+* 🚀 Improving **DSA skills (Python)**
 * 🤖 Exploring **AI-based mini projects**
 * 🧠 Learning how to build smarter systems using AI tools
 
