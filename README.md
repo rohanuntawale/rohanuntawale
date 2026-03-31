@@ -3,7 +3,7 @@
 ### 👨‍💻 Building smart systems with code + AI
 
 🎓 3rd Year CSE @ GHRCE, Nagpur
-⚡ Python Developer | C++ Programmer | AI Tools Enthusiast
+⚡ Python Programmer | AI Tools Enthusiast
 
 ---
 
