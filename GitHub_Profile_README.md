@@ -46,7 +46,7 @@ Unsolved AI problems: context loss, memory fragmentation, reasoning, planning, a
 ---
 
 ### 📫 Reach me
-[![Email](https://img.shields.io/badge/Email-atharvalepse0129@gmail.com-red)](mailto:atharvalepse0129@gmail.com)
+[![Email](https://img.shields.io/badge/Email-untawalerohan@gmail.com-red)](mailto:untawalerohan.com)
 [LinkedIn](https://linkedin.com/in/<handle>) · [Resume](https://<link>)
 
 ---
