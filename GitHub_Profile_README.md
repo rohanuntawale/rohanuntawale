@@ -54,11 +54,7 @@ Coursework: DSA · OOP · DBMS · Artificial Intelligence · Machine Learning ·
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohan--untawale-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-untawale)
 [![GitHub](https://img.shields.io/badge/GitHub-rohanuntawale-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohanuntawale)
 
----
 
-### 📊 GitHub Stats
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanuntawale&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanuntawale&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
